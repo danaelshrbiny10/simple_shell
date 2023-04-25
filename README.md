@@ -1,6 +1,7 @@
 ## Tasks :
 
-
+  * [AUTHORS](./AUTHORS)
   * [simple_shell](./simple_shell)
   * [header](./main.h)
-  * [shell.c](./shell.c)
+  * [main.c](./main.c)
+  * [programflowhelpers.c](./programflowhelpers.c)
