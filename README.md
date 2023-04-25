@@ -6,3 +6,6 @@ This is a UNIX command line interpreter based on the simple shell(sh). It reads 
   * [header](./main.h)
   * [main.c](./main.c)
   * [programflowhelpers.c](./programflowhelpers.c)
+  * [otherhelpers.c](./otherhelpers.c)
+  * [stringhelpers.c](./stringhelpers.c)
+  * [tokenize+PATHhelpers.c](./tokenize+PATHhelpers.c)
