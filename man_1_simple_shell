@@ -1,6 +1,5 @@
 .TH SHELL 1 "April 12, 2023"  "ALX School" "0x16. C - Simple Shell"
  "1.01" "C - simple_shell - man page"
-
 .SH NAME
 .B shellby\fR \- simple UNIX command interpreter
 .SH SYNOPSIS
