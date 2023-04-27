@@ -22,5 +22,5 @@ This is a UNIX command line interpreter based on the simple shell(sh). It reads 
   * [str_token.c](./str_token.c)
   * [tokenize.c](./tokenize.c)
   * [.simple_shell_history](./.simple_shell_history)
-  * [vars.c](./vars.c)
+
 
